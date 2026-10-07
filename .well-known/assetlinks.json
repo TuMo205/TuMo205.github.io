@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tumo205.ngaplangat",
+        "sha256_cert_fingerprints": ["D8:34:50:A7:48:05:A3:00:A4:79:13:5B:D4:B8:CB:D0:02:5E:E5:29:48:71:39:AC:06:F9:AC:7B:DB:6F:B1:ED"]
+      }
+    }]
